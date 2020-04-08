@@ -38,7 +38,7 @@ class component_subcategory extends project_brick {
 
 
         $this->add_field( new acf_fields\text('Link Text', 'link_text', '202002031711a', [
-            'instructions' => 'Add text for the link. If you do not enter any text it will show \'Learn more\'.'
+            'instructions' => 'Add text for the link. If you do not enter any text it will show \'Read more\'.'
             ]
         ) );
 
